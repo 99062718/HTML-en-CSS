@@ -1,0 +1,21 @@
+.container{
+	height: 50%;
+	width: 35%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	line-height: 26px;
+}
+
+h1{
+	font-size: 36px;
+	line-height: 36px;
+}
+
+.paragraaf1{
+	font-size: 24px;
+	line-height: 32px;
+}
